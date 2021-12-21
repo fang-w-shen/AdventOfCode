@@ -1,7 +1,7 @@
 #!/Users/fshen/.asdf/installs/nodejs/12.16.2/bin/node
 
 var fs = require("fs");
-var text = fs.readFileSync("./day1.txt", "utf-8");
+var text = fs.readFileSync("./Day-1/day1.txt", "utf-8");
 var arr = text.split("\n").map((e)=>parseInt(e));
 console.log("****START****")
 console.log('')
