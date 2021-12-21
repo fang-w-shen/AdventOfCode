@@ -62,6 +62,7 @@ function recursiveBinary(arr, most, count = 0) {
 let oxygen = getBinary(recursiveBinary(arr, 'most')[0]);
 let co2 = getBinary(recursiveBinary(arr, 'least')[0]);
 console.log(oxygen * co2, 'DAY3-PART2')
+
 //***********END***********
 
 console.log('')
