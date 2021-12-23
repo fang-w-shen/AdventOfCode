@@ -1,4 +1,5 @@
 --- Day 5: Hydrothermal Venture ---
+
 You come across a field of hydrothermal vents on the ocean floor! These vents constantly produce large, opaque clouds, so it would be best to avoid them if possible.
 
 They tend to form in lines; the submarine helpfully produces a list of nearby lines of vents (your puzzle input) for you to review. For example:
@@ -40,6 +41,7 @@ Consider only horizontal and vertical lines. At how many points do at least two 
 Your puzzle answer was 4728.
 
 --- Part Two ---
+
 Unfortunately, considering only horizontal and vertical lines doesn't give you the full picture; you need to also consider diagonal lines.
 
 Because of the limits of the hydrothermal vent mapping system, the lines in your list will only ever be horizontal, vertical, or a diagonal line at exactly 45 degrees. In other words:

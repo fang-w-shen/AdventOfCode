@@ -1,4 +1,5 @@
 --- Day 6: Lanternfish ---
+
 The sea floor is getting steeper. Maybe the sleigh keys got carried this way?
 
 A massive school of glowing lanternfish swims past. They must spawn quickly to reach such large numbers - maybe exponentially quickly? You should model their growth rate to be sure.
@@ -51,6 +52,7 @@ Find a way to simulate lanternfish. How many lanternfish would there be after 80
 Your puzzle answer was 360610.
 
 --- Part Two ---
+
 Suppose the lanternfish live forever and have unlimited food and space. Would they take over the entire ocean?
 
 After 256 days in the example above, there would be a total of 26984457539 lanternfish!
